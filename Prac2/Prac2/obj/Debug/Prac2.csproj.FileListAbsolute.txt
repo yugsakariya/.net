@@ -1,0 +1,8 @@
+D:\Collage\.net\Prac2\Prac2\bin\Debug\Prac2.exe.config
+D:\Collage\.net\Prac2\Prac2\bin\Debug\Prac2.exe
+D:\Collage\.net\Prac2\Prac2\bin\Debug\Prac2.pdb
+D:\Collage\.net\Prac2\Prac2\obj\Debug\Prac2.csproj.AssemblyReference.cache
+D:\Collage\.net\Prac2\Prac2\obj\Debug\Prac2.csproj.CoreCompileInputs.cache
+D:\Collage\.net\Prac2\Prac2\obj\Debug\Prac2.exe
+D:\Collage\.net\Prac2\Prac2\obj\Debug\Prac2.pdb
+D:\Collage\.net\Prac2\Prac2\obj\Debug\Prac2.exe.config

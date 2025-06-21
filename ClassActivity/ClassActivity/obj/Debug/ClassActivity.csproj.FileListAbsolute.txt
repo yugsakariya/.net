@@ -1,0 +1,8 @@
+D:\Collage\.net\ClassActivity\ClassActivity\obj\Debug\ClassActivity.csproj.AssemblyReference.cache
+D:\Collage\.net\ClassActivity\ClassActivity\obj\Debug\ClassActivity.csproj.CoreCompileInputs.cache
+D:\Collage\.net\ClassActivity\ClassActivity\bin\Debug\ClassActivity.exe.config
+D:\Collage\.net\ClassActivity\ClassActivity\bin\Debug\ClassActivity.exe
+D:\Collage\.net\ClassActivity\ClassActivity\bin\Debug\ClassActivity.pdb
+D:\Collage\.net\ClassActivity\ClassActivity\obj\Debug\ClassActivity.exe
+D:\Collage\.net\ClassActivity\ClassActivity\obj\Debug\ClassActivity.pdb
+D:\Collage\.net\ClassActivity\ClassActivity\obj\Debug\ClassActivity.exe.config
