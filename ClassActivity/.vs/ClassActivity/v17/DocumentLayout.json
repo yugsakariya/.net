@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Collage\\.net\\ClassActivity\\",
+  "WorkspaceRootPath": "D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|D:\\Collage\\.net\\ClassActivity\\classactivity\\factor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|solutionrelative:classactivity\\factor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|d:\\collage\\.net\\yugsakariya\\.net\\classactivity\\classactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|solutionrelative:classactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|D:\\Collage\\.net\\ClassActivity\\classactivity\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|solutionrelative:classactivity\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|D:\\Collage\\.net\\ClassActivity\\classactivity\\parfect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|solutionrelative:classactivity\\parfect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|d:\\collage\\.net\\classactivity\\classactivity\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\classactivity\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|solutionrelative:classactivity\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|D:\\Collage\\.net\\ClassActivity\\classactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|solutionrelative:classactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\classactivity\\parfect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|solutionrelative:classactivity\\parfect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\classactivity\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|solutionrelative:classactivity\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\classactivity\\factor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EF85BA-5063-4A50-BE3C-8FCBC704099A}|ClassActivity\\ClassActivity.csproj|solutionrelative:classactivity\\factor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,66 +41,66 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Factor.cs",
-              "DocumentMoniker": "D:\\Collage\\.net\\ClassActivity\\ClassActivity\\Factor.cs",
-              "RelativeDocumentMoniker": "ClassActivity\\Factor.cs",
-              "ToolTip": "D:\\Collage\\.net\\ClassActivity\\ClassActivity\\Factor.cs*",
-              "RelativeToolTip": "ClassActivity\\Factor.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T04:16:03.833Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Palindrome.cs",
-              "DocumentMoniker": "D:\\Collage\\.net\\ClassActivity\\ClassActivity\\Palindrome.cs",
-              "RelativeDocumentMoniker": "ClassActivity\\Palindrome.cs",
-              "ToolTip": "D:\\Collage\\.net\\ClassActivity\\ClassActivity\\Palindrome.cs",
-              "RelativeToolTip": "ClassActivity\\Palindrome.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Factor.cs",
+              "DocumentMoniker": "D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\ClassActivity\\Factor.cs",
+              "RelativeDocumentMoniker": "ClassActivity\\Factor.cs",
+              "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\ClassActivity\\Factor.cs",
+              "RelativeToolTip": "ClassActivity\\Factor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T04:14:38.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T04:16:03.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Palindrome.cs",
+              "DocumentMoniker": "D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\ClassActivity\\Palindrome.cs",
+              "RelativeDocumentMoniker": "ClassActivity\\Palindrome.cs",
+              "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\ClassActivity\\Palindrome.cs",
+              "RelativeToolTip": "ClassActivity\\Palindrome.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T04:14:38.366Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Parfect.cs",
-              "DocumentMoniker": "D:\\Collage\\.net\\ClassActivity\\ClassActivity\\Parfect.cs",
+              "DocumentMoniker": "D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\ClassActivity\\Parfect.cs",
               "RelativeDocumentMoniker": "ClassActivity\\Parfect.cs",
-              "ToolTip": "D:\\Collage\\.net\\ClassActivity\\ClassActivity\\Parfect.cs",
+              "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\ClassActivity\\Parfect.cs",
               "RelativeToolTip": "ClassActivity\\Parfect.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T04:11:20.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T04:11:20.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Prime.cs",
-              "DocumentMoniker": "D:\\Collage\\.net\\ClassActivity\\ClassActivity\\Prime.cs",
+              "DocumentMoniker": "D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\ClassActivity\\Prime.cs",
               "RelativeDocumentMoniker": "ClassActivity\\Prime.cs",
-              "ToolTip": "D:\\Collage\\.net\\ClassActivity\\ClassActivity\\Prime.cs",
+              "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\ClassActivity\\Prime.cs",
               "RelativeToolTip": "ClassActivity\\Prime.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAcwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T04:10:15.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T04:10:15.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Collage\\.net\\ClassActivity\\ClassActivity\\Program.cs",
+              "DocumentMoniker": "D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\ClassActivity\\Program.cs",
               "RelativeDocumentMoniker": "ClassActivity\\Program.cs",
-              "ToolTip": "D:\\Collage\\.net\\ClassActivity\\ClassActivity\\Program.cs",
+              "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\ClassActivity\\ClassActivity\\Program.cs",
               "RelativeToolTip": "ClassActivity\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T05:28:04.984Z",
               "EditorCaption": ""

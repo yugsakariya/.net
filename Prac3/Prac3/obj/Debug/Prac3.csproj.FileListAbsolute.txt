@@ -1,0 +1,8 @@
+D:\Collage\.net\yugsakariya\.net\Prac3\Prac3\bin\Debug\Prac3.exe.config
+D:\Collage\.net\yugsakariya\.net\Prac3\Prac3\bin\Debug\Prac3.exe
+D:\Collage\.net\yugsakariya\.net\Prac3\Prac3\bin\Debug\Prac3.pdb
+D:\Collage\.net\yugsakariya\.net\Prac3\Prac3\obj\Debug\Prac3.csproj.AssemblyReference.cache
+D:\Collage\.net\yugsakariya\.net\Prac3\Prac3\obj\Debug\Prac3.csproj.CoreCompileInputs.cache
+D:\Collage\.net\yugsakariya\.net\Prac3\Prac3\obj\Debug\Prac3.exe
+D:\Collage\.net\yugsakariya\.net\Prac3\Prac3\obj\Debug\Prac3.pdb
+D:\Collage\.net\yugsakariya\.net\Prac3\Prac3\obj\Debug\Prac3.exe.config
