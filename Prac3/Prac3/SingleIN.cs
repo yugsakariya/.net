@@ -8,16 +8,18 @@ namespace Prac3
 {
     public class SingleIN
     {
-        public void pareant()
+        public SingleIN()
         {
-            Console.WriteLine("This is Parent class");
+            Console.WriteLine("This is parent constructor");
         }
+        
     }
     public class ChildIN : SingleIN
     {
-        public void child()
+        public ChildIN()
         {
-            Console.WriteLine("This is Child class");
+            Console.WriteLine("This is child constructor");
         }
+        
     }
 }

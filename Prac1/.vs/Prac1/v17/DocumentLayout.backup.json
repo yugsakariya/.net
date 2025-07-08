@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Collage\\.net\\Prac1\\",
+  "WorkspaceRootPath": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19ED813D-3058-41A7-9ABA-C1CBEC1970D8}|Prac1\\Prac1.csproj|d:\\collage\\.net\\prac1\\prac1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19ED813D-3058-41A7-9ABA-C1CBEC1970D8}|Prac1\\Prac1.csproj|d:\\collage\\.net\\yugsakariya\\.net\\prac1\\prac1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19ED813D-3058-41A7-9ABA-C1CBEC1970D8}|Prac1\\Prac1.csproj|solutionrelative:prac1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Collage\\.net\\Prac1\\Prac1\\Program.cs",
+              "DocumentMoniker": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac1\\Prac1\\Program.cs",
               "RelativeDocumentMoniker": "Prac1\\Program.cs",
-              "ToolTip": "D:\\Collage\\.net\\Prac1\\Prac1\\Program.cs",
-              "RelativeToolTip": "Prac1\\Program.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGEAAAAdAAAAAAAAAA==",
+              "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac1\\Prac1\\Program.cs*",
+              "RelativeToolTip": "Prac1\\Program.cs*",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwHYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T08:27:40.141Z",
               "EditorCaption": ""

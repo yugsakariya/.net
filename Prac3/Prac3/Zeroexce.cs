@@ -10,18 +10,16 @@ namespace Prac3
     {
         public Zeroexce()
         {
-            int a, b;
+            int a=10, b=0;
             try {                 
-                Console.WriteLine("Enter two numbers");
-                a = Convert.ToInt32(Console.ReadLine());
-                b = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Divide by zero Exception will ouccer");
                 int c = a / b;
                 Console.WriteLine("Division is {0}", c);
             }
             catch (DivideByZeroException e)
             {
-                Console.WriteLine("Error: Division by zero is not allowed.{0}",e.Message);
+                Console.WriteLine(e.Message);
             }
         }
     }
-}
+    }

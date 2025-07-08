@@ -16,7 +16,38 @@ namespace Prac_4
 
         protected void Add_Click(object sender, EventArgs e)
         {
-
+            int no1 = Convert.ToInt32(text1.Text);
+            int no2 = Convert.ToInt32(text2.Text);
+            int result = no1 + no2;
+            lbResult.Text = "Result: " + result.ToString();
+        }
+        protected void Sub_Click(object sender, EventArgs e)
+        {
+            int no1 = Convert.ToInt32(text1.Text);
+            int no2 = Convert.ToInt32(text2.Text);
+            int result = no1 - no2;
+            lbResult.Text = "Result: " + result.ToString();
+        }
+        protected void Multi_Click(object sender, EventArgs e)
+        {
+            int no1 = Convert.ToInt32(text1.Text);
+            int no2 = Convert.ToInt32(text2.Text);
+            int result = no1 * no2;
+            lbResult.Text = "Result: " + result.ToString();
+        }
+        protected void Div_Click(object sender, EventArgs e)
+        {
+            int no1 = Convert.ToInt32(text1.Text);
+            int no2 = Convert.ToInt32(text2.Text);
+            int result = 0;
+            try { 
+                result = no1 / no2;
+                lbResult.Text = "Result: " + result.ToString();
+            }
+            catch (DivideByZeroException)
+            {
+                lbResult.Text = "Error: Division by zero is not allowed.";
+            }
         }
     }
 }

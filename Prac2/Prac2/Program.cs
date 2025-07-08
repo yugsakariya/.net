@@ -17,8 +17,8 @@ namespace Prac2
             //Bank_Account acc = new Bank_Account();
             //acc.GetAccountDetails();
             //acc.DisplayAccountDetails();
-
-            casechange2 cc = new casechange2();
+            //Funtions funtions = new Funtions();
+            //casechange2 cc = new casechange2();
         }
     }
 }

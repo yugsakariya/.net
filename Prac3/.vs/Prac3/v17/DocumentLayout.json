@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|d:\\collage\\.net\\yugsakariya\\.net\\prac3\\prac3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\prac3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|solutionrelative:prac3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|d:\\collage\\.net\\yugsakariya\\.net\\prac3\\prac3\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|solutionrelative:prac3\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|d:\\collage\\.net\\yugsakariya\\.net\\prac3\\prac3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|solutionrelative:prac3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|d:\\collage\\.net\\yugsakariya\\.net\\prac3\\prac3\\indexexce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|solutionrelative:prac3\\indexexce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|d:\\collage\\.net\\yugsakariya\\.net\\prac3\\prac3\\zeroexce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|solutionrelative:prac3\\zeroexce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|d:\\collage\\.net\\yugsakariya\\.net\\prac3\\prac3\\singlein.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\prac3\\singlein.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|solutionrelative:prac3\\singlein.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\prac3\\indexexce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564D7AF-17AA-4E85-8B96-29F64FC6BDCE}|Prac3\\Prac3.csproj|solutionrelative:prac3\\indexexce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\Prac3\\Student.cs",
-              "RelativeDocumentMoniker": "Prac3\\Student.cs",
-              "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\Prac3\\Student.cs",
-              "RelativeToolTip": "Prac3\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:49:21.049Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -63,54 +42,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Salary.cs",
-              "DocumentMoniker": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\Prac3\\Salary.cs",
-              "RelativeDocumentMoniker": "Prac3\\Salary.cs",
-              "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\Prac3\\Salary.cs",
-              "RelativeToolTip": "Prac3\\Salary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T07:03:45.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Indexexce.cs",
               "DocumentMoniker": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\Prac3\\Indexexce.cs",
               "RelativeDocumentMoniker": "Prac3\\Indexexce.cs",
               "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\Prac3\\Indexexce.cs",
               "RelativeToolTip": "Prac3\\Indexexce.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:44:17.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T13:13:59.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Zeroexce.cs",
               "DocumentMoniker": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\Prac3\\Zeroexce.cs",
               "RelativeDocumentMoniker": "Prac3\\Zeroexce.cs",
               "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\Prac3\\Zeroexce.cs",
               "RelativeToolTip": "Prac3\\Zeroexce.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:40:25.027Z",
+              "WhenOpened": "2025-07-07T12:38:15.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "SingleIN.cs",
               "DocumentMoniker": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\Prac3\\SingleIN.cs",
               "RelativeDocumentMoniker": "Prac3\\SingleIN.cs",
               "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\Prac3\\SingleIN.cs",
               "RelativeToolTip": "Prac3\\SingleIN.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwBYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:34:38.603Z",
+              "WhenOpened": "2025-07-07T12:32:00.767Z",
               "EditorCaption": ""
             },
             {
@@ -121,9 +86,9 @@
               "RelativeDocumentMoniker": "Prac3\\Program.cs",
               "ToolTip": "D:\\Collage\\.net\\yugsakariya\\.net\\Prac3\\Prac3\\Program.cs",
               "RelativeToolTip": "Prac3\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAADkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:24:05.2Z",
+              "WhenOpened": "2025-07-07T12:15:16.533Z",
               "EditorCaption": ""
             }
           ]
